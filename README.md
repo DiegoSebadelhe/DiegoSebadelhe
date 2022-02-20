@@ -18,8 +18,7 @@ Java, Python, Salesforce, Markdown
 
 ### 🌱 I’m currently learning ...
 
-Javascript, React + Redux, Spring
-
+Javascript 
 
 ### 💬 What am I doing here?
 
