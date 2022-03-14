@@ -9,7 +9,7 @@
 
 ### 💣 About me
 
-- I'm a software developer who has been building stuff since 2021.
+- I'm a software developer who has been building stuff since 2019.
 - I love coding and i'm happy working with it every day.
 
 ### 🔭 I’m currently working with ...
